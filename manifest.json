@@ -1,0 +1,428 @@
+{
+  "palette": {
+    "navy": "#172E47",
+    "blue": "#82C9F4",
+    "cream": "#FFF8E8",
+    "black": "#000000",
+    "white": "#FFFFFF"
+  },
+  "assets": [
+    {
+      "group": "01-marks",
+      "name": "bunny-bordered",
+      "title": "Bunny · navy border",
+      "width": 1000,
+      "height": 1000,
+      "background": "transparent",
+      "file": "01-marks/bunny-bordered"
+    },
+    {
+      "group": "01-marks",
+      "name": "bunny-borderless",
+      "title": "Bunny · no border",
+      "width": 1000,
+      "height": 1000,
+      "background": "transparent",
+      "file": "01-marks/bunny-borderless"
+    },
+    {
+      "group": "01-marks",
+      "name": "bunny-outline-navy",
+      "title": "Outline · navy",
+      "width": 1000,
+      "height": 1000,
+      "background": "transparent",
+      "file": "01-marks/bunny-outline-navy"
+    },
+    {
+      "group": "01-marks",
+      "name": "bunny-outline-cream",
+      "title": "Outline · cream",
+      "width": 1000,
+      "height": 1000,
+      "background": "transparent",
+      "file": "01-marks/bunny-outline-cream"
+    },
+    {
+      "group": "01-marks",
+      "name": "bunny-solid-navy",
+      "title": "One color · navy",
+      "width": 1000,
+      "height": 1000,
+      "background": "transparent",
+      "file": "01-marks/bunny-solid-navy"
+    },
+    {
+      "group": "01-marks",
+      "name": "bunny-solid-cream",
+      "title": "One color · cream",
+      "width": 1000,
+      "height": 1000,
+      "background": "transparent",
+      "file": "01-marks/bunny-solid-cream"
+    },
+    {
+      "group": "01-marks",
+      "name": "bunny-solid-black",
+      "title": "One color · black",
+      "width": 1000,
+      "height": 1000,
+      "background": "transparent",
+      "file": "01-marks/bunny-solid-black"
+    },
+    {
+      "group": "01-marks",
+      "name": "bunny-solid-white",
+      "title": "One color · white",
+      "width": 1000,
+      "height": 1000,
+      "background": "transparent",
+      "file": "01-marks/bunny-solid-white"
+    },
+    {
+      "group": "01-marks",
+      "name": "bunny-sticker",
+      "title": "Bunny · cream sticker rim",
+      "width": 1000,
+      "height": 1000,
+      "background": "transparent",
+      "file": "01-marks/bunny-sticker"
+    },
+    {
+      "group": "02-lockups",
+      "name": "horizontal-bordered-navy",
+      "title": "horizontal · bordered · navy text",
+      "width": 2000,
+      "height": 640,
+      "background": "transparent",
+      "file": "02-lockups/horizontal-bordered-navy"
+    },
+    {
+      "group": "02-lockups",
+      "name": "horizontal-bordered-cream",
+      "title": "horizontal · bordered · cream text",
+      "width": 2000,
+      "height": 640,
+      "background": "transparent",
+      "file": "02-lockups/horizontal-bordered-cream"
+    },
+    {
+      "group": "02-lockups",
+      "name": "horizontal-borderless-navy",
+      "title": "horizontal · borderless · navy text",
+      "width": 2000,
+      "height": 640,
+      "background": "transparent",
+      "file": "02-lockups/horizontal-borderless-navy"
+    },
+    {
+      "group": "02-lockups",
+      "name": "horizontal-borderless-cream",
+      "title": "horizontal · borderless · cream text",
+      "width": 2000,
+      "height": 640,
+      "background": "transparent",
+      "file": "02-lockups/horizontal-borderless-cream"
+    },
+    {
+      "group": "02-lockups",
+      "name": "horizontal-one-color-navy",
+      "title": "horizontal · one color navy",
+      "width": 2000,
+      "height": 640,
+      "background": "transparent",
+      "file": "02-lockups/horizontal-one-color-navy"
+    },
+    {
+      "group": "02-lockups",
+      "name": "horizontal-one-color-white",
+      "title": "horizontal · one color white",
+      "width": 2000,
+      "height": 640,
+      "background": "transparent",
+      "file": "02-lockups/horizontal-one-color-white"
+    },
+    {
+      "group": "02-lockups",
+      "name": "stacked-bordered-navy",
+      "title": "stacked · bordered · navy text",
+      "width": 1200,
+      "height": 1280,
+      "background": "transparent",
+      "file": "02-lockups/stacked-bordered-navy"
+    },
+    {
+      "group": "02-lockups",
+      "name": "stacked-bordered-cream",
+      "title": "stacked · bordered · cream text",
+      "width": 1200,
+      "height": 1280,
+      "background": "transparent",
+      "file": "02-lockups/stacked-bordered-cream"
+    },
+    {
+      "group": "02-lockups",
+      "name": "stacked-borderless-navy",
+      "title": "stacked · borderless · navy text",
+      "width": 1200,
+      "height": 1280,
+      "background": "transparent",
+      "file": "02-lockups/stacked-borderless-navy"
+    },
+    {
+      "group": "02-lockups",
+      "name": "stacked-borderless-cream",
+      "title": "stacked · borderless · cream text",
+      "width": 1200,
+      "height": 1280,
+      "background": "transparent",
+      "file": "02-lockups/stacked-borderless-cream"
+    },
+    {
+      "group": "02-lockups",
+      "name": "stacked-one-color-navy",
+      "title": "stacked · one color navy",
+      "width": 1200,
+      "height": 1280,
+      "background": "transparent",
+      "file": "02-lockups/stacked-one-color-navy"
+    },
+    {
+      "group": "02-lockups",
+      "name": "stacked-one-color-white",
+      "title": "stacked · one color white",
+      "width": 1200,
+      "height": 1280,
+      "background": "transparent",
+      "file": "02-lockups/stacked-one-color-white"
+    },
+    {
+      "group": "03-wordmarks",
+      "name": "wordmark-navy",
+      "title": "Text only · navy",
+      "width": 2000,
+      "height": 690,
+      "background": "transparent",
+      "file": "03-wordmarks/wordmark-navy"
+    },
+    {
+      "group": "03-wordmarks",
+      "name": "wordmark-cream",
+      "title": "Text only · cream",
+      "width": 2000,
+      "height": 690,
+      "background": "transparent",
+      "file": "03-wordmarks/wordmark-cream"
+    },
+    {
+      "group": "03-wordmarks",
+      "name": "wordmark-black",
+      "title": "Text only · black",
+      "width": 2000,
+      "height": 690,
+      "background": "transparent",
+      "file": "03-wordmarks/wordmark-black"
+    },
+    {
+      "group": "03-wordmarks",
+      "name": "wordmark-white",
+      "title": "Text only · white",
+      "width": 2000,
+      "height": 690,
+      "background": "transparent",
+      "file": "03-wordmarks/wordmark-white"
+    },
+    {
+      "group": "03-wordmarks",
+      "name": "wordmark-blue",
+      "title": "Text only · blue",
+      "width": 2000,
+      "height": 690,
+      "background": "transparent",
+      "file": "03-wordmarks/wordmark-blue"
+    },
+    {
+      "group": "04-backgrounds",
+      "name": "mark-on-cream",
+      "title": "mark · cream background",
+      "width": 1000,
+      "height": 1000,
+      "background": "cream",
+      "file": "04-backgrounds/mark-on-cream"
+    },
+    {
+      "group": "04-backgrounds",
+      "name": "horizontal-on-cream",
+      "title": "horizontal · cream background",
+      "width": 2000,
+      "height": 640,
+      "background": "cream",
+      "file": "04-backgrounds/horizontal-on-cream"
+    },
+    {
+      "group": "04-backgrounds",
+      "name": "stacked-on-cream",
+      "title": "stacked · cream background",
+      "width": 1200,
+      "height": 1280,
+      "background": "cream",
+      "file": "04-backgrounds/stacked-on-cream"
+    },
+    {
+      "group": "04-backgrounds",
+      "name": "mark-on-navy",
+      "title": "mark · navy background",
+      "width": 1000,
+      "height": 1000,
+      "background": "navy",
+      "file": "04-backgrounds/mark-on-navy"
+    },
+    {
+      "group": "04-backgrounds",
+      "name": "horizontal-on-navy",
+      "title": "horizontal · navy background",
+      "width": 2000,
+      "height": 640,
+      "background": "navy",
+      "file": "04-backgrounds/horizontal-on-navy"
+    },
+    {
+      "group": "04-backgrounds",
+      "name": "stacked-on-navy",
+      "title": "stacked · navy background",
+      "width": 1200,
+      "height": 1280,
+      "background": "navy",
+      "file": "04-backgrounds/stacked-on-navy"
+    },
+    {
+      "group": "04-backgrounds",
+      "name": "mark-on-blue",
+      "title": "mark · blue background",
+      "width": 1000,
+      "height": 1000,
+      "background": "blue",
+      "file": "04-backgrounds/mark-on-blue"
+    },
+    {
+      "group": "04-backgrounds",
+      "name": "horizontal-on-blue",
+      "title": "horizontal · blue background",
+      "width": 2000,
+      "height": 640,
+      "background": "blue",
+      "file": "04-backgrounds/horizontal-on-blue"
+    },
+    {
+      "group": "04-backgrounds",
+      "name": "stacked-on-blue",
+      "title": "stacked · blue background",
+      "width": 1200,
+      "height": 1280,
+      "background": "blue",
+      "file": "04-backgrounds/stacked-on-blue"
+    },
+    {
+      "group": "05-app-icons",
+      "name": "app-navy-bordered",
+      "title": "App tile · navy · bordered",
+      "width": 1024,
+      "height": 1024,
+      "background": "navy",
+      "file": "05-app-icons/app-navy-bordered"
+    },
+    {
+      "group": "05-app-icons",
+      "name": "app-navy-borderless",
+      "title": "App tile · navy · borderless",
+      "width": 1024,
+      "height": 1024,
+      "background": "navy",
+      "file": "05-app-icons/app-navy-borderless"
+    },
+    {
+      "group": "05-app-icons",
+      "name": "app-cream-bordered",
+      "title": "App tile · cream · bordered",
+      "width": 1024,
+      "height": 1024,
+      "background": "cream",
+      "file": "05-app-icons/app-cream-bordered"
+    },
+    {
+      "group": "05-app-icons",
+      "name": "app-cream-borderless",
+      "title": "App tile · cream · borderless",
+      "width": 1024,
+      "height": 1024,
+      "background": "cream",
+      "file": "05-app-icons/app-cream-borderless"
+    },
+    {
+      "group": "05-app-icons",
+      "name": "app-blue-bordered",
+      "title": "App tile · blue · bordered",
+      "width": 1024,
+      "height": 1024,
+      "background": "blue",
+      "file": "05-app-icons/app-blue-bordered"
+    },
+    {
+      "group": "05-app-icons",
+      "name": "app-blue-borderless",
+      "title": "App tile · blue · borderless",
+      "width": 1024,
+      "height": 1024,
+      "background": "blue",
+      "file": "05-app-icons/app-blue-borderless"
+    },
+    {
+      "group": "06-social",
+      "name": "avatar-circle-navy",
+      "title": "Circle avatar · navy",
+      "width": 1000,
+      "height": 1000,
+      "background": "transparent",
+      "file": "06-social/avatar-circle-navy"
+    },
+    {
+      "group": "06-social",
+      "name": "banner-navy",
+      "title": "Social banner · navy",
+      "width": 2400,
+      "height": 1260,
+      "background": "navy",
+      "file": "06-social/banner-navy"
+    },
+    {
+      "group": "06-social",
+      "name": "avatar-circle-cream",
+      "title": "Circle avatar · cream",
+      "width": 1000,
+      "height": 1000,
+      "background": "transparent",
+      "file": "06-social/avatar-circle-cream"
+    },
+    {
+      "group": "06-social",
+      "name": "banner-cream",
+      "title": "Social banner · cream",
+      "width": 2400,
+      "height": 1260,
+      "background": "cream",
+      "file": "06-social/banner-cream"
+    }
+  ],
+  "webIcons": [
+    16,
+    32,
+    48,
+    64,
+    128,
+    180,
+    192,
+    256,
+    512,
+    1024
+  ]
+}
