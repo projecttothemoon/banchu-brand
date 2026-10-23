@@ -42,5 +42,8 @@ Copy the files from 07-web-icons to your public website folder, then add:
 <link rel="manifest" href="/site.webmanifest">
 Set the manifest start_url to your app's preferred landing page if needed.
 
+ALIGNMENT
+All bunny variants are centered horizontally on the midpoint of the two eye centers, rather than the unequal ears. The eyes retain their original shapes and positions relative to each other. Vertical positioning is unchanged. Transparent favicons use slightly more breathing room so the longer right ear remains fully visible. Wordmark-only artwork is unchanged.
+
 PRODUCTION NOTES
 The selected concept was isolated using the built-in image_gen tool, then traced into reusable vector geometry. Flat palette colors replace the generated image texture. All layouts and color variants share the same canonical bunny and wordmark paths. The borderless artwork removes the navy perimeter while retaining the face geometry. See generation-prompts.txt for source prompts.

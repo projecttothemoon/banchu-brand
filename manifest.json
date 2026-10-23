@@ -424,5 +424,21 @@
     256,
     512,
     1024
-  ]
+  ],
+  "alignment": {
+    "horizontalReference": "Midpoint of the two eye area centroids",
+    "sourceEyes": [
+      {
+        "x": 336.68534822650616,
+        "y": 878.0643227283847
+      },
+      {
+        "x": 746.6540330381731,
+        "y": 878.0748697291735
+      }
+    ],
+    "sourceEyeMidpointX": 541.6696906323397,
+    "verticalReference": "Silhouette bounds center; existing vertical positions preserved",
+    "favicon": "Transparent favicon reframed symmetrically around eye midpoint with 2% minimum edge padding"
+  }
 }
